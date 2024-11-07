@@ -1,14 +1,12 @@
 module.exports = {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      colors: {- Very Dark Gray: hsl(0, 0%, 17%)
-        - Dark Gray: hsl(0, 0%, 59%)}
+      colors: {
+        "very-dark-gray": "hsl(0, 0%, 17%)",
+        "dark-gray": "hsl(0, 0%, 59%)",
+      },
     },
   },
   plugins: [],
-}
-
+};
