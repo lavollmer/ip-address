@@ -1,6 +1,6 @@
 # IP Address Tracker
 
-This project 
+This project
 
 ## Table of contents
 
@@ -17,6 +17,7 @@ This project
 ## Overview
 
 Users should be able to:
+
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements on the page
 - See their own IP address on the map on the initial page load
@@ -26,25 +27,17 @@ Users should be able to:
 
 <p style="font-size:20px;">Desktop Version:</p>
 
-
 <p style="font-size:20px;">Desktop Version Dark Mode:</p>
-
-
 
 <p style="font-size:20px;">Mobile Version:</p>
 
-
-
 <p style="font-size:20px;">Mobile Version Dark Mode:</p>
-
-
 
 ## Links
 
 - Live Site URL: []()
 
 ## My Process
-
 
 ## Built with
 
@@ -64,18 +57,18 @@ Users should be able to:
 
 Here are several things I learned throughout this project:
 
-1. **_abc_** - 
+1. **_abc_** -
 
 ## Continued development
 
-I will continue to learn more about 
+I will continue to learn more about
 
 ## Useful resources
 
 - Font Family: [Rubik](https://fonts.google.com/specimen/Rubik)
-- [IP Geolocation API by IPify](https://geo.ipify.org/). 
+- [IP Geolocation API by IPify](https://geo.ipify.org/).
 - To generate the map, we recommend using [LeafletJS](https://leafletjs.com/).
-
+- Input ReactJS (https://react.dev/reference/react-dom/components/input)
 
 ## Author
 
