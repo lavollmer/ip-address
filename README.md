@@ -72,8 +72,9 @@ I will continue to learn more about
 
 ## Useful resources
 
-- [Google Font](https://fonts.google.com/selection) - Design called for this font in the project.
-To get the IP Address locations, you'll be using the [IP Geolocation API by IPify](https://geo.ipify.org/). To generate the map, we recommend using [LeafletJS](https://leafletjs.com/).
+- Font Family: [Rubik](https://fonts.google.com/specimen/Rubik)
+- [IP Geolocation API by IPify](https://geo.ipify.org/). 
+- To generate the map, we recommend using [LeafletJS](https://leafletjs.com/).
 
 
 ## Author

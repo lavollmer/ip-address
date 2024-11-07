@@ -6,6 +6,9 @@ module.exports = {
         "very-dark-gray": "hsl(0, 0%, 17%)",
         "dark-gray": "hsl(0, 0%, 59%)",
       },
+      font:{
+        'Rubik': ['Rubik', 'sans-serif']
+      }
     },
   },
   plugins: [],
