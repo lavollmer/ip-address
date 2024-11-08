@@ -57,7 +57,7 @@ Users should be able to:
 
 Here are several things I learned throughout this project:
 
-1. **_abc_** -
+1. **_JSX Style in Object Notation_** - I wanted to add a background image to a div in order to have it display in the background. In the process, I learned about JSX style in JavaScript object notation. Each CSS property is represented as a key in an object.
 
 ## Continued development
 
